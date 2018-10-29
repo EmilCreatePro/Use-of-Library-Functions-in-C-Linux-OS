@@ -1,0 +1,5 @@
+file7.txt has 16 blocks allocated.
+file4.txt has 24 blocks allocated.
+file5.txt has 8 blocks allocated.
+file1.txt has 8 blocks allocated.
+file2.txt has 8 blocks allocated.
